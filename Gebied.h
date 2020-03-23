@@ -2,8 +2,8 @@
 // Created by romeo on 20-1-2020.
 //
 
-#ifndef EXAMEN_OO_GEBIED_ROMEO_PERMENTIER_GEBIED_H
-#define EXAMEN_OO_GEBIED_ROMEO_PERMENTIER_GEBIED_H
+#ifndef OO_GEBIED_H
+#define OO_GEBIED_H
 
 #include <iostream>
 
@@ -38,4 +38,4 @@ public:
 
 };
 
-#endif //EXAMEN_OO_GEBIED_ROMEO_PERMENTIER_GEBIED_H
+#endif //OO_GEBIED_H
